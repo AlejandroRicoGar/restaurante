@@ -1,0 +1,126 @@
+[
+    {
+      "name": "Bruschetta al Pomodoro",
+      "description": "Rebanadas de pan tostado con tomate fresco, ajo, albahaca y aceite de oliva.",
+      "price": 5.50,
+      "category_id": 1
+    },
+    {
+      "name": "Croquetas de Jamón",
+      "description": "Deliciosas croquetas cremosas rellenas de jamón ibérico y rebozadas al punto.",
+      "price": 4.75,
+      "category_id": 1,
+      "image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hola.com%2Fcocina%2Frecetas%2F20191217156471%2Fcroquetas-de-jamon-iberico%2F&psig=AOvVaw1i81pwTbvNcmFUtp_7qMIh&ust=1748367424875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjD_LDWwY0DFQAAAAAdAAAAABAE"
+    },
+    {
+      "name": "Ensalada Caprese",
+      "description": "Tomate, mozzarella fresca y albahaca, aliñados con aceite de oliva y reducción de balsámico.",
+      "price": 6.00,
+      "category_id": 1
+    },
+    {
+      "name": "Calamares a la Romana",
+      "description": "Aros de calamar rebozados y fritos, servidos con alioli casero.",
+      "price": 7.25,
+      "category_id": 1
+    },
+    {
+      "name": "Gazpacho Andaluz",
+      "description": "Sopa fría de verduras frescas: tomate, pepino, pimiento y pan, perfectamente batido.",
+      "price": 4.50,
+      "category_id": 1
+    },
+
+    {
+      "name": "Paella Valenciana",
+      "description": "Arroz con pollo, conejo, verduras y azafrán, cocinado al estilo tradicional.",
+      "price": 12.95,
+      "category_id": 3
+    },
+    {
+      "name": "Lasaña Boloñesa",
+      "description": "Capas de pasta, ragú de carne, bechamel y queso gratinado al horno.",
+      "price": 10.50,
+      "category_id": 3
+    },
+    {
+      "name": "Salmón a la Plancha",
+      "description": "Filete de salmón fresco a la plancha con salsa de cítricos y verduras salteadas.",
+      "price": 14.00,
+      "category_id": 3
+    },
+    {
+      "name": "Pollo al Curry",
+      "description": "Trozos de pollo en salsa de curry suave con leche de coco, servido con arroz basmati.",
+      "price": 11.75,
+      "category_id": 3
+    },
+    {
+      "name": "Risotto de Setas",
+      "description": "Arroz cremoso cocinado con una variedad de setas silvestres y parmesano.",
+      "price": 13.20,
+      "category_id": 3
+    },
+  
+    {
+      "name": "Tiramisú Clásico",
+      "description": "Capa de bizcocho empapado en café, crema de mascarpone y cacao espolvoreado.",
+      "price": 5.95,
+      "category_id": 4
+    },
+    {
+      "name": "Brownie de Chocolate",
+      "description": "Brownie esponjoso con trozos de chocolate fundido y helado de vainilla.",
+      "price": 4.50,
+      "category_id": 4
+    },
+    {
+      "name": "Tarta de Queso",
+      "description": "Tarta cremosa de queso con base de galleta y coulis de frutos rojos.",
+      "price": 5.75,
+      "category_id": 4
+    },
+    {
+      "name": "Panna Cotta",
+      "description": "Suave crema italiana de vainilla, servida con salsa de frutos rojos.",
+      "price": 4.80,
+      "category_id": 4
+    },
+    {
+      "name": "Helado Artesanal",
+      "description": "Selección de tres sabores artesanales (vainilla, chocolate, fresa).",
+      "price": 4.00,
+      "category_id": 4
+    },
+  
+    {
+      "name": "Agua Mineral",
+      "description": "Botella de agua mineral con o sin gas.",
+      "price": 1.50,
+      "category_id": 5
+    },
+    {
+        "name": "Limonada Casera",
+        "description": "Refrescante limonada elaborada con limones naturales y hierbabuena.",
+        "price": 2.50,
+        "category_id": 5
+      },
+      {
+        "name": "Coca Cola",
+        "description": "Té negro infusionado con puré de mango y hielo.",
+        "price": 2.25,
+        "category_id": 5
+      },
+      {
+        "name": "Smoothie de Fresa",
+        "description": "Batido cremoso de fresa fresca y yogur natural.",
+        "price": 3.00,
+        "category_id": 5
+      },
+      {
+        "name": "Vino Tinto Rioja",
+        "description": "Copa de vino tinto reserva de la región de Rioja.",
+        "price": 4.00,
+        "category_id": 5
+      }
+    ]
