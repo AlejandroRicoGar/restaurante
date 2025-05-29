@@ -161,18 +161,18 @@
       </div>
   
       <!-- Botones -->
-      <div class="flex gap-2 justify-end pt-4">
+      <div style="display: flex; gap: 1rem; justify-content: flex-end; margin-top: 1.5rem;">
         <button
           type="button"
           on:click={() => onSuccess()}
-          class="px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-600 disabled:opacity-50 transition-colors"
+          style="padding: 0.6rem 1.5rem; background: #888; color: #fff; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer;"
           disabled={loading}
         >
           Cancelar
         </button>
         <button
           type="submit"
-          class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 disabled:opacity-50 transition-colors"
+          style="padding: 0.6rem 1.5rem; background: #2563eb; color: #fff; border: none; border-radius: 4px; font-size: 1rem; cursor: pointer;"
           disabled={loading}
         >
           {#if loading}
@@ -181,7 +181,7 @@
             {recipeToEdit ? 'Guardar Cambios' : 'Crear Receta'}
           {/if}
         </button>
-      </div>
+      </div>      
     </div>
   </form>
   
